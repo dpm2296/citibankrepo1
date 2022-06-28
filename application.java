@@ -18,6 +18,8 @@
         merchantAuthenticationType.setName(apiLoginId);
         merchantAuthenticationType.setTransactionKey(transactionKey);
         ApiOperationBase.setMerchantAuthentication(merchantAuthenticationType);
+=======
+
 package com.github.chrishantha.sample.allocations;
 
 import com.beust.jcommander.Parameter;
